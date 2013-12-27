@@ -1,0 +1,98 @@
+It's a Hackerful Life
+
+    2013 Holiday Hacking Challenge
+    by Ed Skoudis, Josh Wright, and Tom Hessman
+
+On Christmas Eve, George Thomas Bailey had decided to end it all. In a fit of despair, he stood in the blustery snow on the railing of the old bridge at the outskirts of Bedford Falls, his small hometown. According to family lore, his old Granddad George almost did the same thing, way back in '46 after the war. The old coot didn't end up going through with it, and spent the rest of his days smiling and gabbing on about angels to anyone who would listen. But today, his grandson and namesake, this modern-day George Bailey, was much more determined than his grandfather, and was about to jump to his death in the frigid waters below.
+
+""Don't do it, George,"" said a voice behind him. Despite its gentle tone, the interruption startled George. As he turned to face it, he didn't recognize the stranger. ""How did you know my name?"" George asked suspiciously.
+
+A kindly elderly man responded, ""Oh, I know all about you. I watched you grow up from a little boy.""
+
+""What are you, an Internet stalker or something?"" George said, annoyed at the interruption of his suicide.
+
+""I am Clarence Enoch Oddbody, AFC,"" was the response.
+
+""Oddbody? AFC? W-What's that AFC?"" George stuttered.
+
+Clarence responded, ""Angel, First Class.""
+
+George eyed the stranger up and down, and muttered, ""Well now. That would explain the wings. But why are you running around here all barefoot?""
+
+Clarence answered, ""I've got my wings, but I'm still trying to earn some socks for my feet.""
+
+George thought about it for a second, and then uttered, ""Say, I remember my Aunt Zuzu always talking about angels getting their wings. By the way, what kinda person names their kid 'Zuzu'?""
+
+Clarence answered, ""Your Grandpa George did. He was a great man, the very root of his family, as was his son, your father Tommy. And, so are you, George.""
+
+""Great man? Why I outta sock you one on a day like today for that crack, bub. All this talk about Grandpas in the 40's, strange crackpots with a name of Enoch, and references to root make me feel like I'm in some sort of Cryptonomicon re-enactment. I've got more important things to worry about, angel. I'm supposed to secure the computers and network infrastructure of Bedford Falls. I really failed today - bankruptcy, scandal, and prison await. Mr. Potter's goons hacked the power grid and caused a massive blackout. Our team managed to get the lights back on, but the initial blackout was all my fault, you see!""
+
+""Mr. Henry F. Potter is still around?"" Clarence calculated in his head and on his fingers, ""He's gotta be... 135 years old!""
+
+""Now don't be ridiculous,"" George answered. ""I'm talking about Harold Potter, Henry's Grandson, aged 68, who inherited his family fortune, as well as their insatiable greed. But, I really let our town down. With this here insurance policy, I'm worth more dead than alive.""
+
+Clarence responded, ""But George, you just don't know all that you've done. If it hadn't been for you...""
+
+George interrupted, ""Yeah, if it hadn't been for me, everybody would be a lot better off. My wife and my kids and my friends. I mean, look, little fella, w-why don't you go off and haunt somebody else? I suppose it would have been better if I'd never been born at all.""
+
+""What d'ya say?"" the angel asked.
+
+George burst out, ""I said I wish I had never been born!""
+
+""Oh, you mustn't say things like that...Wait a minute! That's an idea..."" Clarence debated a notion forming in his mind. After a pause, he proclaimed, ""All right. You've got your wish. You've never been born. You don't exist.""
+
+A cold chill blew through town, but George didn't pay any attention to Clarence's babble. ""What I need is a coupla good stiff drinks. How 'bout you, angel? You want a drink?""
+
+On their way to Martini's Bar, where George could drown his sorrows, he noticed that the evening was curiously dark. ""Well, gosh darnit! I thought we brought all the lights back, but the streetlights are all out, Clarence. Wait a minute, what are those bright neon lights over there?"" George wondered aloud with his Midwestern drawl coming to the fore.
+
+""That's Mr. Potter's Midnight Club. All unnecessary public utility services, like streetlights, mysteriously shut down each evening, making his seedy establishment a bright beacon attracting customers from all over town. Notice how the rail system has also been stopped, and all city auto traffic has been directed past its doors.""
+
+George pointed out the obvious, ""Potter must make a lot of moolah in that nasty joint.""
+
+Continuing down Main Street, George noticed more unsettling scenes, ""What are those kids doing in line in front of the dentist office over there?""
+
+""Sadly, dental decay has been rampant in Pottersville, ever since Mr. Potter foreclosed on the remaining dentist offices, leaving the practice he owns the last remaining option for dental work in town. Some have speculated that problems in the water supply are really to blame, but all readings appear normal.""
+
+""Now wait just a gosh darn minute there, bub! What are you talking about 'Pottersville'? This is Bedford Falls. Just look at the sign over there by Dr. Campbell's office. Why good ol' Doc Campbell's been taking care of me when I get sick for years.""
+
+"Look again, George", Clarence replied with a sad sigh, ""We're in Pottersville. And, what's more, Dr. Campbell's medical practice shut down years ago, not long after the big train accident.""
+
+""Train accident? What train accident? Straighten me out here, Angel.""
+
+""Not long after Dr. Campbell convinced the board to vote against Potter's motion to dissolve the Bailey Brothers Building & Loan Association, the outbound Pottersville train mysteriously took an unused connection and derailed, killing all passengers. Dr. Campbell and three Building & Loan board members died tragically in the accident.""
+
+""Oh no, no, no. It can't be. Not Dr. Campbell...all those people. It's not true...say it's not true, Oddbody!"" George cried in anguish.
+
+""Sadly so, George,"" Clarence shook his head, ""The Building & Loan was shut down shortly afterward. It has been replaced with Imperial Pawn & Loan, another palace of sadness for people down on their luck cashing out their worldly possessions for pennies on the dollar, courtesy of Mr. Potter, of course.""
+
+As George stared in shock down the transformed, dilapidated Main Street, the entire city went even darker, followed quickly by the sounds of several car crashes throughout town. A nearby police officer spoke into his car radio, ""Dispatch, we got a 10-50, 10-49 here on Main Street. The damn power's out again all over town. I need backup before the looting starts. After the last power outage, I'm worried rioters will get started sooner this time, and on Christmas Eve, no less. Over.""
+
+""Clarence...What have I done? Is this my doing?"" George hesitantly asked.
+
+""Not your doing, George, but your lack of doing. You may not have noticed it before, but your information security skills made a big difference in this town at one time. Without you, there's only lawlessness and depravity left.""
+
+Wild eyed at the sight of such destruction and tragedy, George began to beg, ""Clarence! Help me, Clarence. Get me back! I don't care what happens to me. Get me back to my Bedford Falls. Please, help me, Clarence. I want to live again!""
+
+And then suddenly, Main Street was transformed, now looking like its old self again. George exclaimed in celebration, ""Well, what do you know about that. I'm back! Merry Christmas, Building and Loan! Merry Christmas, Dr. Campbell's Office! And Merry Christmas to you, Mr. Potter. But, I don't understand, Clarence, how my life could have had such an impact.""
+
+Clarence smiled and shrugged, ""I wish I could show how you directly stopped those horrible things from happening, George, but that would take some serious holiday magic, beyond that of even an AFC.""
+
+And then, out of the falling snow, a figure appeared, shadowy at first, but growing clearer as he approached. It was...a snowman!
+
+""Hello, folks! I'm Snowden the Snowman, bringing Christmas cheer and holiday magic,"" exclaimed the pale white stranger.
+
+""Snowden? Aren't you that guy who..."" George started.
+
+The snowman interrupted, ""I get that all the time. That's not me. I'm the other Snowden. You know -- Snowden the Snowman, beloved children's cartoon character from late 1990's holiday specials, including "Magic Gift of the Snowman" (1995), "Snowden on Ice" (1997), and, my magnum opus, "The Snowden, Raggedy Ann and Andy Holiday Show" (1998). My first video is even available via Netflix! In fact, starting in '97, retail giant Target promoted me with a series of cheerful plush toys, which make ideal collectors' items and holiday gifts. Don't you remember me?""
+
+Clarence scratched his chin, ""No, it doesn't ring a bell, but thanks for the resumé. And what's with the Russian-style ushanka winter hat?""
+
+The snowman responded, ""It gets cold where I live now. Look, in keeping with my original video name, "Magic Gift of the Snowman" (1995), it just so happens that I have a network packet capture of all significant activities in Bedford Falls for the past 30 days, and I'd like to share it with everyone.""
+
+George, suspicious of the snowman's offer, said ""And how exactly would you get that?""
+
+Snowden responded, ""Let's just say I have magical access to monitoring stations all over town. The way I see it, you could look through all these here packets and figure out how George saved Bedford Falls from Mr. Potter's dastardly plots!""
+
+""That's a great idea!"" exclaimed Clarence and George in unison.
+
+Suddenly, a young girl no more than six years old ran up to George and leaped into his arms. It was his adorable daughter. Out of the blue, she blurted, ""Teacher says, 'Every hack a defender blocks, an angel gets his socks.'"" George winked back with a big smile, ""That's right, Q-Ball! Every hack a defender blocks, an angel gets his socks!"" Clarence just smiled, standing there in his stocking feet.
